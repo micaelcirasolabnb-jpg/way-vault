@@ -9,6 +9,7 @@ tags: []
 
 ## Obiettivo
 
+Vendere prodotti che convergono in Italia, online.
 
 ## Stato
 Avviato 2026-08-10.
