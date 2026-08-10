@@ -100,3 +100,9 @@
 
 ## [2026-08-10] session | mikecirasola
 [[04_SESSIONS/2026-08-10-1802-mikecirasola]]
+
+
+## [2026-08-10] session | ClaudeAI
+[[04_SESSIONS/2026-08-10-1813-ClaudeAI]]
+## [2026-08-10] session | ClaudeAI
+[[04_SESSIONS/2026-08-10-1813-ClaudeAI]]
