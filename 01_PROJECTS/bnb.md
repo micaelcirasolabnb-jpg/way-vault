@@ -9,6 +9,7 @@ tags: []
 
 ## Obiettivo
 
+Creare un channel manager.
 
 ## Stato
 Avviato 2026-08-10.
