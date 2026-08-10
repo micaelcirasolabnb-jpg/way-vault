@@ -125,6 +125,8 @@
 ## [2026-08-10] session | ClaudeAI
 [[04_SESSIONS/2026-08-10-1840-ClaudeAI]]
 
+## [2026-08-10] inbox | Interconnessione Claude cloud <-> MacBook
+[[00_INBOX/mac-claude-interconnessione]] — nessun ambiente/sessione locale registrato ancora; serve azione lato Mac (login/Remote Control) prima che l'interconnessione live sia possibile.
 
 ## [2026-08-10] session | mikecirasola
 [[04_SESSIONS/2026-08-10-1945-mikecirasola]]
