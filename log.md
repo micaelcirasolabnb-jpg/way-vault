@@ -34,3 +34,9 @@
 ## [2026-08-10] session | mikecirasola
 [[04_SESSIONS/2026-08-10-1717-mikecirasola]]
 [[04_SESSIONS/2026-08-10-1717-mikecirasola]]
+
+## [2026-08-10] session | ClaudeAI
+[[04_SESSIONS/2026-08-10-1739-ClaudeAI]]
+
+## [2026-08-10] session | ClaudeAI
+[[04_SESSIONS/2026-08-10-1739-ClaudeAI]]
