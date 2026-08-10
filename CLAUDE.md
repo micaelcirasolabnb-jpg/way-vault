@@ -67,6 +67,17 @@ Three canonical ops (see way-stack vault-* skills):
 3. Every major decision → ADR in `02_KNOWLEDGE/decisions/`
 4. Vault grows — old notes updated with `updated: YYYY-MM-DD`, never deleted
 
+## Continuity across devices/sessions
+
+This vault is synced (git) across multiple machines (Windows, Mac). Each session is a separate process with no shared live memory — continuity is achieved by reading this vault, not by magic.
+
+**At the start of every session, before responding to the user:**
+1. Read `log.md` (last ~20 entries) for recent chronological context
+2. Skim the most recent 2-3 files in `04_SESSIONS/` for what was worked on last
+3. If a specific project is mentioned, check `01_PROJECTS/<project>.md` first
+
+This makes every session — regardless of device or interface — pick up where the last one left off.
+
 ## Orchestrator
 
 Global routing rules live in `~/.claude/CLAUDE.md`. This file is the **"where to save"** layer. Orchestrator is the **"how to work"** layer.
