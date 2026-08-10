@@ -70,3 +70,9 @@
 
 ## [2026-08-10] session | Workspace
 [[04_SESSIONS/2026-08-10-1752-Workspace]]
+
+
+## [2026-08-10] session | mikecirasola
+[[04_SESSIONS/2026-08-10-1752-mikecirasola]]
+## [2026-08-10] session | mikecirasola
+[[04_SESSIONS/2026-08-10-1752-mikecirasola]]
