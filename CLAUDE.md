@@ -80,4 +80,15 @@ This makes every session — regardless of device or interface — pick up where
 
 ## Orchestrator
 
-Global routing rules live in `~/.claude/CLAUDE.md`. This file is the **"where to save"** layer. Orchestrator is the **"how to work"** layer.
+Global routing rules live in `.claude/ORCHESTRATOR.md` (mirrored here so cloud sessions,
+which only see this repo, can read it too — the live copy on the Mac is `~/.claude/CLAUDE.md`).
+This file is the **"where to save"** layer. Orchestrator is the **"how to work"** layer.
+
+## Memory & skills (mirrored for cloud sessions)
+
+- `.claude/memory/` — mirror of `~/.claude/projects/-Users-mikecirasola/memory/` (persistent facts/preferences)
+- `.claude/skills/` — mirror of `~/.claude/skills/` (skill instructions, no plugin binaries/executables)
+
+These are read-only mirrors updated by hand or by hook. On the Mac, the real `~/.claude/`
+copies are authoritative — plugin *execution* (way-stack, ponytail, code-review, etc.) only
+runs there, cloud sessions can only *read* the instructions, not invoke the plugin tooling.

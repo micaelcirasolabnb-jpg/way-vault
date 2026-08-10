@@ -1,0 +1,1 @@
+- [Sessioni cloud → rami claude/*](cloud-sessions-push-to-branches.md) — sessione nuova = commit su main; sessione ripresa = resta sul suo ramo
