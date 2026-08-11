@@ -186,3 +186,15 @@
 
 ## [2026-08-11] session | mikecirasola
 [[04_SESSIONS/2026-08-11-1435-mikecirasola]]
+
+
+## [2026-08-11] session | mikecirasola
+[[04_SESSIONS/2026-08-11-1435-mikecirasola]]
+## [2026-08-11] session | mikecirasola
+[[04_SESSIONS/2026-08-11-1435-mikecirasola]]
+
+## [2026-08-11] session | mikecirasola
+[[04_SESSIONS/2026-08-11-1435-mikecirasola]]
+
+## [2026-08-11] session | mikecirasola
+[[04_SESSIONS/2026-08-11-1435-mikecirasola]]
