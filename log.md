@@ -360,3 +360,9 @@
 
 ## [2026-08-18] session | scripts
 [[04_SESSIONS/2026-08-18-2131-scripts]]
+
+## [2026-08-19] session | TipsMotivazionale
+[[04_SESSIONS/2026-08-19-0344-TipsMotivazionale]]
+
+## [2026-08-19] session | TipsMotivazionale
+[[04_SESSIONS/2026-08-19-0344-TipsMotivazionale]]
