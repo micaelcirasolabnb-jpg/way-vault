@@ -564,3 +564,9 @@
 [[04_SESSIONS/2026-08-24-2310-mikecirasola]]
 ## [2026-08-24] session | mikecirasola
 [[04_SESSIONS/2026-08-24-2310-mikecirasola]]
+
+
+## [2026-08-24] session | mikecirasola
+[[04_SESSIONS/2026-08-24-2310-mikecirasola]]
+## [2026-08-24] session | mikecirasola
+[[04_SESSIONS/2026-08-24-2310-mikecirasola]]
