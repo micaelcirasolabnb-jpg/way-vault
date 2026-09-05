@@ -1200,3 +1200,9 @@
 [[04_SESSIONS/2026-09-05-0444-TipsMotivazionale]]
 ## [2026-09-05] session | TipsMotivazionale
 [[04_SESSIONS/2026-09-05-0444-TipsMotivazionale]]
+
+
+## [2026-09-05] session | mikecirasola
+[[04_SESSIONS/2026-09-05-0551-mikecirasola]]
+## [2026-09-05] session | mikecirasola
+[[04_SESSIONS/2026-09-05-0551-mikecirasola]]
