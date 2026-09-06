@@ -1242,3 +1242,9 @@
 
 ## [2026-09-06] session | scripts
 [[04_SESSIONS/2026-09-06-0424-scripts]]
+
+## [2026-09-06] session | TipsMotivazionale
+[[04_SESSIONS/2026-09-06-0438-TipsMotivazionale]]
+
+## [2026-09-06] session | TipsMotivazionale
+[[04_SESSIONS/2026-09-06-0438-TipsMotivazionale]]
