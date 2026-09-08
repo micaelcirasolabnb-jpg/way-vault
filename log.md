@@ -1404,3 +1404,21 @@
 ## [2026-09-08] session | mikecirasola
 [[04_SESSIONS/2026-09-08-2051-mikecirasola]]
 [[04_SESSIONS/2026-09-08-2051-mikecirasola]]
+
+
+## [2026-09-08] session | mikecirasola
+[[04_SESSIONS/2026-09-08-2051-mikecirasola]]
+## [2026-09-08] session | mikecirasola
+[[04_SESSIONS/2026-09-08-2051-mikecirasola]]
+
+
+
+## [2026-09-08] session | mikecirasola
+[[04_SESSIONS/2026-09-08-2102-mikecirasola]]
+## [2026-09-08] session | mikecirasola
+[[04_SESSIONS/2026-09-08-2102-mikecirasola]]
+## [2026-09-08] session | mikecirasola
+[[04_SESSIONS/2026-09-08-2102-mikecirasola]]
+
+## [2026-09-08] session | mikecirasola
+[[04_SESSIONS/2026-09-08-2102-mikecirasola]]
