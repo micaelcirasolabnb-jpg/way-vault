@@ -1332,3 +1332,9 @@
 [[04_SESSIONS/2026-09-08-1123-mikecirasola]]
 ## [2026-09-08] session | mikecirasola
 [[04_SESSIONS/2026-09-08-1123-mikecirasola]]
+
+
+## [2026-09-08] session | scripts
+[[04_SESSIONS/2026-09-08-1133-scripts]]
+## [2026-09-08] session | scripts
+[[04_SESSIONS/2026-09-08-1133-scripts]]
