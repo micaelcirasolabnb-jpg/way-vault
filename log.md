@@ -1548,3 +1548,9 @@
 
 ## [2026-09-12] session | scripts
 [[04_SESSIONS/2026-09-12-0305-scripts]]
+
+
+## [2026-09-12] session | scripts
+[[04_SESSIONS/2026-09-12-0314-scripts]]
+## [2026-09-12] session | scripts
+[[04_SESSIONS/2026-09-12-0314-scripts]]
