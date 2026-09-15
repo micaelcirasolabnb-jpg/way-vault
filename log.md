@@ -1620,3 +1620,9 @@
 
 ## [2026-09-15] session | mikecirasola
 [[04_SESSIONS/2026-09-15-1124-mikecirasola]]
+
+
+## [2026-09-15] session | mikecirasola
+[[04_SESSIONS/2026-09-15-1124-mikecirasola]]
+## [2026-09-15] session | mikecirasola
+[[04_SESSIONS/2026-09-15-1124-mikecirasola]]
