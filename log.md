@@ -1788,3 +1788,9 @@
 
 ## [2026-09-19] session | TipsMotivazionale
 [[04_SESSIONS/2026-09-19-0311-TipsMotivazionale]]
+
+
+## [2026-09-19] session | TipsMotivazionale
+[[04_SESSIONS/2026-09-19-0335-TipsMotivazionale]]
+## [2026-09-19] session | TipsMotivazionale
+[[04_SESSIONS/2026-09-19-0335-TipsMotivazionale]]
