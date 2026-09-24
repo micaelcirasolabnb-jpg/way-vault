@@ -1950,3 +1950,9 @@
 [[04_SESSIONS/2026-09-24-0707-scripts]]
 ## [2026-09-24] session | scripts
 [[04_SESSIONS/2026-09-24-0707-scripts]]
+
+
+## [2026-09-24] session | mikecirasola
+[[04_SESSIONS/2026-09-24-1923-mikecirasola]]
+## [2026-09-24] session | mikecirasola
+[[04_SESSIONS/2026-09-24-1923-mikecirasola]]
