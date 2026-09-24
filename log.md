@@ -2004,3 +2004,15 @@
 
 ## [2026-09-24] session | scratch-2026-09-23-487c52
 [[04_SESSIONS/2026-09-24-1927-scratch-2026-09-23-487c52]]
+
+
+## [2026-09-24] session | mikecirasola
+## [2026-09-24] session | mikecirasola
+[[04_SESSIONS/2026-09-24-1939-mikecirasola]]
+[[04_SESSIONS/2026-09-24-1939-mikecirasola]]
+
+## [2026-09-24] session | mikecirasola
+[[04_SESSIONS/2026-09-24-1939-mikecirasola]]
+
+## [2026-09-24] session | mikecirasola
+[[04_SESSIONS/2026-09-24-1939-mikecirasola]]
