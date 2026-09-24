@@ -1986,3 +1986,9 @@
 [[04_SESSIONS/2026-09-24-1924-mikecirasola]]
 ## [2026-09-24] session | mikecirasola
 [[04_SESSIONS/2026-09-24-1924-mikecirasola]]
+
+
+## [2026-09-24] session | mikecirasola
+[[04_SESSIONS/2026-09-24-1924-mikecirasola]]
+## [2026-09-24] session | mikecirasola
+[[04_SESSIONS/2026-09-24-1924-mikecirasola]]
