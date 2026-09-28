@@ -2088,3 +2088,9 @@
 
 ## [2026-09-27] session | TipsMotivazionale
 [[04_SESSIONS/2026-09-27-0906-TipsMotivazionale]]
+
+
+## [2026-09-28] session | mikecirasola
+[[04_SESSIONS/2026-09-28-1404-mikecirasola]]
+## [2026-09-28] session | mikecirasola
+[[04_SESSIONS/2026-09-28-1404-mikecirasola]]
