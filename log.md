@@ -2544,3 +2544,9 @@
 
 ## [2026-10-15] session | scratch-2026-10-12-02c4a6
 [[04_SESSIONS/2026-10-15-0145-scratch-2026-10-12-02c4a6]]
+
+## [2026-10-15] session | TipsMotivazionale
+[[04_SESSIONS/2026-10-15-0145-TipsMotivazionale]]
+
+## [2026-10-15] session | TipsMotivazionale
+[[04_SESSIONS/2026-10-15-0145-TipsMotivazionale]]
