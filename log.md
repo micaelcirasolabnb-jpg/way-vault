@@ -2556,3 +2556,9 @@
 ## [2026-10-15] session | mikecirasola
 [[04_SESSIONS/2026-10-15-1103-mikecirasola]]
 [[04_SESSIONS/2026-10-15-1103-mikecirasola]]
+
+## [2026-10-15] session | scratch-2026-10-15-709dba
+[[04_SESSIONS/2026-10-15-2013-scratch-2026-10-15-709dba]]
+
+## [2026-10-15] session | scratch-2026-10-15-709dba
+[[04_SESSIONS/2026-10-15-2013-scratch-2026-10-15-709dba]]
