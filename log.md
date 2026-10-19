@@ -2580,3 +2580,9 @@
 [[04_SESSIONS/2026-10-19-0624-scratch-2026-10-16-99ac77]]
 ## [2026-10-19] session | scratch-2026-10-15-709dba
 [[04_SESSIONS/2026-10-19-0624-scratch-2026-10-15-709dba]]
+
+## [2026-10-19] session | reports
+[[04_SESSIONS/2026-10-19-0624-reports]]
+
+## [2026-10-19] session | reports
+[[04_SESSIONS/2026-10-19-0624-reports]]
