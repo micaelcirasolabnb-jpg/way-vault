@@ -2586,3 +2586,6 @@
 
 ## [2026-10-19] session | reports
 [[04_SESSIONS/2026-10-19-0624-reports]]
+
+## [2026-10-23] session | mikecirasola
+[[04_SESSIONS/2026-10-23-1501-mikecirasola]]
