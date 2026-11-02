@@ -2604,3 +2604,9 @@
 
 ## [2026-11-02] session | saas-ricerca-nicchie
 [[04_SESSIONS/2026-11-02-0003-saas-ricerca-nicchie]]
+
+
+## [2026-11-02] session | mikecirasola
+[[04_SESSIONS/2026-11-02-1411-mikecirasola]]
+## [2026-11-02] session | mikecirasola
+[[04_SESSIONS/2026-11-02-1411-mikecirasola]]
