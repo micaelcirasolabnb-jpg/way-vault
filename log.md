@@ -2718,3 +2718,9 @@
 [[04_SESSIONS/2026-11-18-1451-mikecirasola]]
 ## [2026-11-18] session | mikecirasola
 [[04_SESSIONS/2026-11-18-1451-mikecirasola]]
+
+## [2026-11-19] session | scratch-2026-11-15-9432cb
+[[04_SESSIONS/2026-11-19-0129-scratch-2026-11-15-9432cb]]
+
+## [2026-11-19] session | scratch-2026-11-15-9432cb
+[[04_SESSIONS/2026-11-19-0129-scratch-2026-11-15-9432cb]]
